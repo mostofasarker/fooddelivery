@@ -575,7 +575,7 @@ header .icons #menu-bars {
 
 .footer .credit {
   text-align: center;
-  border-top: 0.1rem solid rgba(0, 0, 0, 0.1);
+  border-top: 0.1rem solid rgba(255, 12, 12, 0.1);
   font-size: 2rem;
   color: var(--black);
   padding: 0.5rem;
